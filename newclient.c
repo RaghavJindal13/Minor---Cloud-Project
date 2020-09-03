@@ -121,7 +121,7 @@ int flag = 0;
     }
 else
 {
-	printf("Login ID or password is incorrect !!!@#$%$#@!@#$\n");
+	printf("Login ID or password is incorrect !\n");
 }
 
 	return 0;
