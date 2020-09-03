@@ -13,11 +13,11 @@ int i,a,digi=0,up=0,low=0,schar=0;
 
 printf("Enter your Name: ");
 
-gets(name);
+fgets(name);
 
 printf("Hello %s, Enter your password:\n",name);
 
-gets(pwd);
+fgets(pwd);
 
 a=strlen(pwd);
 
@@ -87,7 +87,7 @@ else
 
 printf("Confirm your Password\n");
 
-gets(ver);
+fgets(ver);
 
 if(strcmp(pwd,ver)==0)
 
@@ -99,6 +99,6 @@ printf("Password did not match");
 
 }
 
-getch();
+fgets();
 
 }
