@@ -3,7 +3,7 @@ This project discusses a detailed overview of developing a client server-based
 application using socket programming. We will be developing a client-server-based
 application called WE3 CLOUD using C programming language to demonstrate
 the concepts of socket programming and its communication between server and
-client.
+client.<br>
 Interface design, socket programming style and exceptions are also considered in
 the development stage. The communications between client server application
 processes using socket mechanisms were mainly analyzed.
