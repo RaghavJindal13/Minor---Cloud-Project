@@ -10,3 +10,6 @@ processes using socket mechanisms were mainly analyzed.
 The main objective of this Project is to demonstrate the principles and concepts
 behind socket programming and that too with the core idea of providing cloud
 computing-based services.
+
+
+![alt text](http://url/to/img.png)
