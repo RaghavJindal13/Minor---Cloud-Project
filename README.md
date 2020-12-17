@@ -12,4 +12,4 @@ behind socket programming and that too with the core idea of providing cloud
 computing-based services.
 
 
-![alt text](https://drive.google.com/file/d/1t92wYv5VMJApAI-shXGtGpRKzPN4hK86/view?usp=sharing)
+![](https://drive.google.com/file/d/1t92wYv5VMJApAI-shXGtGpRKzPN4hK86/view?usp=sharing)
