@@ -11,5 +11,7 @@ The main objective of this Project is to demonstrate the principles and concepts
 behind socket programming and that too with the core idea of providing cloud
 computing-based services.
 
+ <p align="center"> 
+    <img src="https://github.com/RaghavJindal13/Minor---Cloud-Project/blob/raghav/we3.PNG" alt="alternate text">
+ </p>
 
-![](https://github.com/RaghavJindal13/Minor---Cloud-Project/blob/raghav/we3.PNG)
